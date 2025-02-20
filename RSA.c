@@ -1,4 +1,4 @@
-// THE RSA ALGORITHM
+// THE RSA ALGORITHM in more detail
 
 #include <stdio.h>
 #include <math.h>
